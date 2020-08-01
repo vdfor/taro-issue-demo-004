@@ -1412,9 +1412,9 @@
   dependencies:
     "@tarojs/runtime" "3.0.6"
 
-"@tarojs/cli@^3.0.6":
+"@tarojs/cli@3.0.6":
   version "3.0.6"
-  resolved "https://registry.npm.taobao.org/@tarojs/cli/download/@tarojs/cli-3.0.6.tgz#29bbb2252289243b5cce02cab29eac56a09f5a0f"
+  resolved "https://registry.npm.taobao.org/@tarojs/cli/download/@tarojs/cli-3.0.6.tgz?cache=0&sync_timestamp=1596177632895&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Fcli%2Fdownload%2F%40tarojs%2Fcli-3.0.6.tgz#29bbb2252289243b5cce02cab29eac56a09f5a0f"
   integrity sha1-KbuyJSKJJDtczgLKsp6sVqCfWg8=
   dependencies:
     "@hapi/joi" "17.1.1"
